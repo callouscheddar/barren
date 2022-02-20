@@ -1,0 +1,13 @@
+"barren"
+{
+	"base"		"base"
+	"title"		"Barren"
+	"category"	"other"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+
+	}
+}
