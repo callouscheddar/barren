@@ -1,0 +1,2 @@
+# Barren Gamemode
+A gamemode.
